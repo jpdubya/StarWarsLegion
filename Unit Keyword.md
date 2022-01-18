@@ -12,8 +12,16 @@
 
 # B
 [[Barrage]]
+[[Block]]
+[[Bolster X]]
+[[Bounty]]
 
 # C
+[[Calculate Odds]]
+[[Charge]]
+[[Climbing Vehicle]]
+[[Compel]]
+
 # D
 # E
 # F
@@ -30,6 +38,8 @@
 # Q
 # R
 # S
+[[Speeder X]]
+
 # T
 # U
 # V

@@ -6,6 +6,8 @@
 [[Arm X Charge Token]]
 
 # B
+[[Beam X]]
+[[Blast]]
 
 # C
 # D
