@@ -1,0 +1,1 @@
+Same as [[Armor]] but only cancel X ![[HitIcon.png]]s.
