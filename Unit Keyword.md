@@ -40,6 +40,7 @@
 [[Disengage]]
 [[Distract]]
 [[Djem So Mastery]]
+[[Duelist]]
 
 # E
 # F
