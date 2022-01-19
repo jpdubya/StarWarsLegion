@@ -32,6 +32,14 @@
 [[Danger Sense X]]
 [[Dauntless]]
 [[Defend X]]
+[[Deflect]]
+[[Demoralize X]]
+[[Detachment Unit name or Type]]
+[[Direct]]
+[[Disciplined X]]
+[[Disengage]]
+[[Distract]]
+[[Djem So Mastery]]
 
 # E
 # F

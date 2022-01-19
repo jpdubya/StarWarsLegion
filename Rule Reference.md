@@ -1,6 +1,6 @@
 # Rule Reference
 Glossaries:
-[[Unit Keyword]]	[[Weapon Keyword]]
+[[Unit Keyword]]	[[Weapon Keyword]]	[[Upgrade Keyword]]
 
 Basics:
 
