@@ -20,7 +20,11 @@
 # F
 # G
 # H
+[[High Velocity]]
+
 # I
+[[Immobilize X]]
+
 # J
 # K
 # L

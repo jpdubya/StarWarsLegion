@@ -62,7 +62,17 @@
 [[Gunslinger]]
 
 # H
+[[Heavy Weapon Team]]
+[[Hover Ground or Air X]]
+
 # I
+[[Immune Blast]]
+[[Immune Deflect]]
+[[Immune Enemy Effects]]
+[[Immune Melee]]
+[[Immune Pierce]]
+[[Immune Range 1 Weapons]]
+
 # J
 # K
 # L
