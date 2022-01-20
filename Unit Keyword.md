@@ -43,8 +43,24 @@
 [[Duelist]]
 
 # E
+[[Enraged X]]
+[[Entourage Unit name]]
+[[Equip]]
+[[Exemplar]]
+[[Expert Climber]]
+
 # F
+[[Flawed]]
+[[Field Commander]]
+[[Fire Support]]
+[[Full Pivot]]
+
 # G
+[[Generator X]]
+[[Grounded]]
+[[Guardian X]]
+[[Gunslinger]]
+
 # H
 # I
 # J
