@@ -1,4 +1,4 @@
-[[troopers]]
+[[Troopers]]
 
 A clone trooper is a type of unit. It is a subtype of the trooper  
 unit type.  
