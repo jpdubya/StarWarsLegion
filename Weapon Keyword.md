@@ -24,10 +24,15 @@
 
 # I
 [[Immobilize X]]
+[[Impact X]]
+[[Ion X]]
 
 # J
 # K
 # L
+[[Lethal X]]
+[[Long Shot X]]
+
 # M
 # N
 # O

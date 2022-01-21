@@ -15,8 +15,12 @@
 # J
 # K
 # L
+[[Leader]]
+
 # M
 # N
+[[Noncombatant]]
+
 # O
 # P
 # Q

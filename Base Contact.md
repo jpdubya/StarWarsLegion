@@ -15,7 +15,7 @@ token, that mini is in base contact with that terrain or token.
 with each other.  
 
 • Minis cannot be in base contact with minis from enemy  
-units, unless the unit leader has a melee weapon (![[MeleeIcon.png]]), in  
+units, unless the unit leader has a melee weapon (![[Pics/MeleeIcon.png]]), in  
 which case the unit leader can perform a move into base  
 contact with a mini from an enemy unit to start a melee.  
 

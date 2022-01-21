@@ -21,7 +21,7 @@ in a melee, and the attacker can use only weapons that
 have a blue range ![[RangeIcon.png]] icon.
 	» During a melee attack, the attacker and defender are in a  
 melee, and the attacker can use only weapons that have a  
-red melee (![[MeleeIcon.png]]) icon.  
+red melee (![[Pics/MeleeIcon.png]]) icon.  
 
 • Command cards, unit abilities, and other game effects can  
 allow units to perform attacks. The card granting the attack  

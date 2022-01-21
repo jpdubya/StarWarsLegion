@@ -1,4 +1,4 @@
-[[Cover Type]], [[Movement Difficulty]], [[Open Terrain]], [[Difficult Terrain]], [[Impassible Terrain]], [[Cover Type]]
+[[Cover Type]], [[Movement Difficulty]], [[Open Terrain]], [[Difficult Terrain]], [[Impassable Terrain]], [[Cover Type]]
 
 Adding terrain to the battlefield presents unique gameplay  
 challenges and opportunities. Just about anything can be used  
@@ -24,4 +24,4 @@ modify these rules as needed.
 
 ![[Difficult Terrain]]
 
-![[Impassible Terrain]]
+![[Impassable Terrain]]

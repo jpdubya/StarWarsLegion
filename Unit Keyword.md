@@ -72,12 +72,32 @@
 [[Immune Melee]]
 [[Immune Pierce]]
 [[Immune Range 1 Weapons]]
+[[Impervious]]
+[[Incognito]]
+[[Inconspicuous]]
+[[Indomitable]]
+[[Infiltrate]]
+[[Inspire X]]
 
 # J
+[[Jedi Hunter]]
+[[Jump X]]
+[[Juyo Mastery]]
+
 # K
 # L
+[[Light Transport X Open or Closed]]
+[[Loadout]]
+[[Low Profile]]
+
 # M
+[[Makashi Mastery]]
+[[Marksman]]
+[[Master of the Force X]]
+
 # N
+[[Nimble]]
+
 # O
 # P
 # Q
