@@ -99,14 +99,30 @@
 [[Nimble]]
 
 # O
+[[Observe X]]
+
 # P
+[[Precise X]]
+[[Pulling the Strings]]
+
 # Q
+[[Quick Thinking]]
+
 # R
+[[Ready X]]
+[[Recharge X]]
+[[Regenerate X]]
+[[Reliable X]]
+[[Relentless]]
+[[Reposition]]
+
 # S
 [[Speeder X]]
 
 # T
 # U
+[[Outmaneuver]]
+
 # V
 # W
 # X

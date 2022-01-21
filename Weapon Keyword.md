@@ -37,8 +37,13 @@
 # N
 # O
 # P
+[[Pierce X]]
+[[Poison X]]
+
 # Q
 # R
+[[Ram X]]
+
 # S
 # T
 # U

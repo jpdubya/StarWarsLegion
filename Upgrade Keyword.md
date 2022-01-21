@@ -25,6 +25,9 @@
 # P
 # Q
 # R
+[[Reconfigure]]
+[[Repair X Capacity X]]
+
 # S
 # T
 # U

@@ -17,7 +17,7 @@ is in a melee with, that attack is a melee attack. Melee
 attacks follow the same rules as ranged attacks with the  
 following exceptions:  
 » The attacker can use only weapons that have the melee  
-(![[MeleeIcon.png]]) icon.  
+(![[MeleeIcon 1.png]]) icon.  
 » The target of the attack must be in the same melee as  
 the attacker.
 

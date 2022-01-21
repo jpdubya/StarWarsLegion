@@ -2,7 +2,7 @@
 
 ![[Pasted image 20220120211026.png]]
 
-A weapon with a red melee icon (![[MeleeIcon.png]]) is a melee  
+A weapon with a red melee icon (![[MeleeIcon 1.png]]) is a melee  
 weapon. Melee weapons can only be used during  
 melee attacks.  
 
