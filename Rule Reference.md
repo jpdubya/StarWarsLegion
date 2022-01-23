@@ -2,6 +2,7 @@
 [[Keywords]]
 
 Glossaries:
+[[Keyword Glossary]]
 [[Unit Keyword]]	[[Weapon Keyword]]	[[Upgrade Keyword]]
 
 Basics:
