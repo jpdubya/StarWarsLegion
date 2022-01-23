@@ -115,8 +115,16 @@
 [[Reliable X]]
 [[Relentless]]
 [[Reposition]]
+[[Retinue]]
 
 # S
+[[Sabotage or Repair]]
+[[Scale]]
+[[Scouting Party X]]
+[[Scout X]]
+[[Secret Mission]]
+[[Sentinel]]
+[[Sharpshooter x]]
 [[Speeder X]]
 
 # T

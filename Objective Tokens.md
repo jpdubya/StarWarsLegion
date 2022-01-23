@@ -57,12 +57,12 @@ leader
 » After an objective token is dropped by a unit, it is no  
 longer considered to be claimed by that unit.
 • Some objective cards specify that objective tokens can be  
-interacted with via the **[[sabotage or repair]]** action.  
+interacted with via the **[[Sabotage or Repair]]** action.  
 » Only a unit leader in base contact with an objective  
-token can use the **[[sabotage or repair]]** keyword.  
+token can use the **[[Sabotage or Repair]]** keyword.  
 » Wound tokens are only placed on objective tokens  
-through the **[[sabotage or repair]]** keyword. Objective  
+through the **[[Sabotage or Repair]]** keyword. Objective  
 tokens cannot suffer wounds from attacks or from any  
-game effect other than the **[[sabotage or repair]]** keyword.  
+game effect other than the **[[Sabotage or Repair]]** keyword.  
 » Objective tokens cannot have fewer than 0  
 wound tokens.

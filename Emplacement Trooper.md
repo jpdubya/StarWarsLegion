@@ -24,7 +24,7 @@ provide [[light cover]] when doing so.
 » Emplacement troopers can [[pivot]] and [[reverse]].  
 
 » Emplacement troopers cannot use the **[[claim]]** or  
-**[[sabotage or repair]]** abilities.
+**[[Sabotage or Repair]]** abilities.
 
 » Emplacement troopers cannot be [[displaced]]. 
 
