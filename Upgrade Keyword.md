@@ -29,6 +29,9 @@
 [[Repair X Capacity X]]
 
 # S
+[[Sidearm Melee or Ranged]]
+[[Small]]
+
 # T
 # U
 # V

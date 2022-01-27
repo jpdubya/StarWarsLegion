@@ -125,6 +125,9 @@
 [[Secret Mission]]
 [[Sentinel]]
 [[Sharpshooter x]]
+[[Shielded X]]
+[[Smoke X]]
+[[Soresu Mastery]]
 [[Speeder X]]
 
 # T
